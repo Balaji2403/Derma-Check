@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Inter:wght@300;400&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #242124  ; 
+    color: #263238;
+}
+
+
+/* Navbar Font */
+.navbar {
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-weight: 600;
+}
+
+/* Headings */
+h1, h2, h3 {
+  /* font-family:'Times New Roman', Times, serif; */
+  font-weight: 600;
+}
+
+/* Paragraphs */
+p, li {
+  /* font-family: 'Poppins', sans-serif; */
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+/* Buttons */
+button, .cta-button {
+  /* font-family: 'Poppins', sans-serif; */
+  font-weight: 500;
+  text-transform: uppercase;
+}
